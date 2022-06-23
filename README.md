@@ -14,11 +14,13 @@ In my free time I build and maintain the following applications:
 I maintain a few python packages and other open source projects.
 
 ![Sartartur's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarartur&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs)
-
 <div width="100%" align="center" dir="auto">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarartur&repo=chess.com&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CultCornholio&repo=solenya&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-       
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarartur&repo=chess.com&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=CultCornholio&repo=solenya&theme=onedark" />
+</a>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarartur&custom_title=Activity&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
