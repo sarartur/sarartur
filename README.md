@@ -4,12 +4,12 @@ I am a software developer from Boston, Massachussets.
 
 I work full time as a Software Engineer and also develop web application in my free time. I am also a Crypto Currency and Cyber Security enthusiast and enjoy building Block Chain analytic tools and occasionally doing some [Hax The Box](https://app.hackthebox.com/users/354140).
 
-### Projects
+## Projects
 In my free time I build and maintain the following applications:
 - [RenewableNavi](https://renewablenavi.com/) - a modern marketplace for Renewable Energy products.
 - [YOTB](https://yotb.io/collections/categories/banners) - Data aggregator and analytics for NFTs.
  
-### Github Stats
+## Github Stats
 
 I maintain a few python packages and other open source projects. If you are a chess enthusiast checkout the [chess.com](https://github.com/sarartur/sarartur/edit/chess.com) package.
 
@@ -19,7 +19,7 @@ I maintain a few python packages and other open source projects. If you are a ch
 </a>
 </div>
  
-### Contact & Support
+## Contact & Support
 Feel free to contact me at [sarartur.ruk@gmail.com](#)
 
 <a href="https://www.buymeacoffee.com/sararturruc">
