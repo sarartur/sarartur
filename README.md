@@ -5,7 +5,7 @@ I am a software developer from Boston, Massachussets.
 I work full time as a Software Engineer and develop web application in my free time. I am also a Crypto Currency and Cyber Security enthusiast and enjoy building Block Chain analytic tools and occasionally doing some [Hax The Box](https://app.hackthebox.com/users/354140).
 
 ## Projects
-In my free time I build and maintain the following applications:
+In my free time I build and maintain several web applications:
 - [RenewableNavi](https://renewablenavi.com/) - a modern marketplace for Renewable Energy products.
 - [YOTB](https://yotb.io/collections/categories/banners) - Data aggregator and analytics for NFTs.
  
