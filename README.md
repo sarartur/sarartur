@@ -16,10 +16,10 @@ I maintain a few python packages and other open source projects.
 ![Sartartur's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarartur&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs)
 <div width="100%" align="center" dir="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarartur&repo=chess.com&theme=onedark" />
+  <img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarartur&repo=chess.com&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=CultCornholio&repo=solenya&theme=onedark" />
+  <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=CultCornholio&repo=solenya&theme=onedark" />
 </a>
 </div>
 
