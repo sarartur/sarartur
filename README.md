@@ -18,7 +18,9 @@ I maintain a few python packages and other open source projects.
   <img src="https://github-readme-stats.vercel.app/api?username=sarartur&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs" />
 </a>
 </div>
-<br/><br/>
+
+---
+
 <div width="100%" align="center" dir="auto">
 
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sarartur&custom_title=Activity&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
