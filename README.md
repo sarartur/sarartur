@@ -3,12 +3,6 @@
 I am a software developer [@SimplyBusiness](https://github.com/simplybusiness) from Boston, Massachussets.
 
 In my free time I maintain a few python packages and other open source projects. If you are a chess enthusiast checkout the [chess.com](https://github.com/sarartur/sarartur/edit/chess.com) package.
-
-<div width="100%" dir="auto">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarartur&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs" />
-</a>
-</div>
  
 ## Contact & Support
 Feel free to contact me at [sarartur.ruk@gmail.com](#)
