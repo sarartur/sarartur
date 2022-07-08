@@ -1,17 +1,8 @@
 # Hi :wave:, I am [sarartur](https://github.com/sarartur) <span style="font-size:1.2rem">(Artur Saradzhyan)</span>
 
-I am a software developer from Boston, Massachussets.
+I am a software developer [@SimplyBusiness](https://github.com/simplybusiness) from Boston, Massachussets.
 
-I work full time as a Software Engineer and develop web applications in my free time. I am also a Crypto Currency and Cyber Security enthusiast and enjoy building Block Chain analytic tools and occasionally doing some [Hax The Box](https://app.hackthebox.com/users/354140).
-
-## Projects
-In my free time I build and maintain several web applications:
-- [RenewableNavi](https://renewablenavi.com/) - a modern marketplace for Renewable Energy products.
-- [YOTB](https://yotb.io/collections/categories/banners) - Data aggregator and analytics for NFTs.
- 
-## Github Stats
-
-I maintain a few python packages and other open source projects. If you are a chess enthusiast checkout the [chess.com](https://github.com/sarartur/sarartur/edit/chess.com) package.
+In my free time I maintain a few python packages and other open source projects. If you are a chess enthusiast checkout the [chess.com](https://github.com/sarartur/sarartur/edit/chess.com) package.
 
 <div width="100%" dir="auto">
 <a href="https://github.com/anuraghazra/github-readme-stats">
