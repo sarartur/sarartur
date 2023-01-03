@@ -1,6 +1,6 @@
 # Hi :wave:, I am [sarartur](https://github.com/sarartur) <span style="font-size:1.2rem">(Artur Saradzhyan)</span>
 
-I am a software developer [@SimplyBusiness](https://github.com/simplybusiness) from Boston, Massachussets.
+I am a software engineer [@SimplyBusiness](https://github.com/simplybusiness) from Boston, Massachussets.
 
 In my free time I maintain a few python packages and other open source projects. If you are a chess enthusiast checkout the [chess.com](https://github.com/sarartur/sarartur/edit/chess.com) package.
  
